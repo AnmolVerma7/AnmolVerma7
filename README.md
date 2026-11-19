@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Anmol 👋</h1>
+<h1 align="center">Hey, I'm Anmol ♣♥♠♦</h1>
 
 <p align="center">
-  CIS student at MRU (graduating Dec 2026) · front-end dev · game dev tinkerer
+  CIS student at MRU (graduating Dec 2026) · Front-End Dev · Game Dev Tinkerer
   <br/>
   <a href="https://anmolv.com"><img src="https://img.shields.io/badge/Portfolio-anmolv.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=anmolverma7&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=anmolverma7&theme=tokyonight&hide_border=true" alt="Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=anmolverma7&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anmolverma7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
+<!-- Contribution graph (re-enable later by moving it back into a <p align="center"> block)
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=anmolverma7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+-->
