@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Anmol ♣♥♠♦</h1>
 
 <p align="center">
-  CIS student at MRU (graduating Dec 2026) · Front-End Dev · Game Dev Tinkerer
+  CIS student at MRU (graduating Dec 2026) · Front-End dev · Game Dev Tinkerer
   <br/>
   <a href="https://anmolv.com"><img src="https://img.shields.io/badge/Portfolio-anmolv.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=anmolverma7&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
@@ -10,16 +10,23 @@
 
 ---
 
-## 🧰 What I work with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,bootstrap,js,html,css,unity,cs,blender,git,github&perline=12" alt="Skills"/>
-</p>
-
-## 🔭 What I'm up to
-
-- 🎮 Building a game in **Unity** and **Blender**, and planning a third-person brawler combat system
-- 💼 Always happy to chat about web dev, games, or sales/tech crossover roles
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🧰 What I work with</h2>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,nodejs,vite,bootstrap,js,html,css,unity,cs,blender,git,github&perline=6" alt="Skills"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h2>🔭 What I'm up to</h2>
+      <ul>
+        <li>🎮 Building a game in <b>Unity</b> and <b>Blender</b>, and planning a third-person brawler combat system</li>
+        <li>💼 Always happy to chat about web dev, games, or sales/tech crossover roles</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub stats
 
