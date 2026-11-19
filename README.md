@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <br/>
   <a href="https://anmolv.com"><img src="https://img.shields.io/badge/Portfolio-anmolv.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=anmolverma7&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views"/>
+  <a href="https://www.linkedin.com/in/anmol-j-verma/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
 </p>
 
 ---
@@ -47,14 +49,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anmolverma7&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
-</p>
-
-## 📫 Find me
-
-<p align="center">
-  <a href="https://anmolv.com"><img src="https://img.shields.io/badge/Website-anmolv.com-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/anmol-j-verma/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jamy1722@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-ea4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!-- Optional extras:
