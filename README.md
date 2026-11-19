@@ -15,7 +15,7 @@
     <td width="50%" valign="top">
       <h2>🧰 What I work with</h2>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,vite,bootstrap,js,html,css,unity,cs,blender,git,github&perline=6" alt="Skills"/>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind,js,html,css,unity,cs,blender,git,github&perline=6" alt="Skills"/>
       </p>
     </td>
     <td width="50%" valign="top">
